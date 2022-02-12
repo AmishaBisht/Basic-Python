@@ -21,7 +21,7 @@ while (True):
             print(num1, " / ", num2, "is: =", num1/num2)
         next_cal=input("you want to calculate again? (yes/no :")
         if next_cal=="no":
-            print("Thankyou for using the calculator:)")
+            print("Thankyou for using the calculator:) ")
             break
     else:
         print("Okay bye:)")
